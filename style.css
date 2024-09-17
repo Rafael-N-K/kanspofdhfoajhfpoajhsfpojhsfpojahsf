@@ -1,0 +1,45 @@
+/* *{
+    background-color: salmon;
+    font-size: 64px;
+} */
+body{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+table{
+    background-color: burlywood;
+    color: blue;
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+}
+#titulo td{
+    border: 5px double gold;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 600px;
+}
+#titulo th{
+    border: 2px dashed blue;
+}
+.dadosimpares{
+    background-color: black;
+}
+.dadospares{
+    background-color: grey;
+}
+.dadosimpares{
+    color: grey;
+}
+.dadospares{
+    color: black;
+}
+h2{
+    font-size: 50%;
+}
+.imgcenter{
+    text-align: center
+}

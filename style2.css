@@ -1,0 +1,57 @@
+*{
+    margin: auto;
+    font-family: cursive;
+}
+body{
+    background-color: #41bbd9;
+}
+h1{
+    text-align: center;
+    color: #cb7a01;
+    font-size: 68px;
+}
+header{
+    background-color: #B9D585;
+    padding: 10px;
+}
+.Inputs{
+    text-align: center;
+    padding: 15px;
+}
+table{
+    background-color: burlywood;
+    color: blue;
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 600px;
+}
+#titulo th{
+    border: 2px dashed rgb(56, 56, 75);
+    font-size: 40px;
+    color: darkblue;
+}
+.dadosimpares{
+    background-color: black;
+}
+.dadospares{
+    background-color: grey;
+}
+.dadosimpares{
+    color: grey;
+}
+.dadospares{
+    color: black;
+}
+h2{
+    font-size: 50%;
+}
+.imgcenter{
+    text-align: center
+}
